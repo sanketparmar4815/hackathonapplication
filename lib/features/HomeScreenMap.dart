@@ -18,7 +18,7 @@ class Homescreenmap extends StatefulWidget {
 }
 
 class _HomescreenmapState extends State<Homescreenmap> {
-  static final CameraPosition _kInitialPosition = const CameraPosition(
+  static const CameraPosition _kInitialPosition = CameraPosition(
     target: LatLng(25.321684, 82.987289),
     zoom: 10.0,
   );
