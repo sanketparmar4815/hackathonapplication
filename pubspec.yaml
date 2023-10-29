@@ -37,12 +37,15 @@ dependencies:
   cupertino_icons: ^1.0.2
   mapmyindia_gl: ^0.3.2
   fluttertoast: ^8.0.6
+  persistent_bottom_nav_bar: any
+  google_maps_flutter: ^2.5.0
 
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
   flutter_lints: ^2.0.0
+  very_good_analysis:
 
 flutter:
 
@@ -57,7 +60,7 @@ flutter:
 
 
   assets:
-    - assets/symbols/custom-icon.png
+    - assets/
     #    - assets/symbols/2.0x/custom-icon.png
     #    - assets/symbols/3.0x/custom-icon.png
 

@@ -16,9 +16,6 @@ class MyApp extends StatelessWidget {
       title: 'Flutter Demo',
       themeMode: ThemeMode.system,
       theme:Palette.lightTheme,
-
-
-
       home: Homescreenmap()
     );
   }
