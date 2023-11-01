@@ -100,3 +100,97 @@ class _cards_widgetState extends State<cards_widget> {
     ]);
   }
 }
+
+/*
+  // Column(children: [
+                  //   Container(
+                  //     decoration: const BoxDecoration(
+                  //         color: Colors.red,
+                  //         borderRadius: BorderRadius.only(
+                  //             topLeft: Radius.circular(20),
+                  //             topRight: Radius.circular(20))),
+                  //     height: 70,
+                  //     width: 350,
+                  //     child: Row(
+                  //       // mainAxisAlignment: MainAxisAlignment.spaceAround,
+                  //       children: [
+                  //         Container(
+                  //           margin: const EdgeInsets.fromLTRB(15, 0, 0, 0),
+                  //           width: 260,
+                  //           child: const Text("Puna Gam Fire Station",
+                  //               maxLines: 2,
+                  //               style: TextStyle(
+                  //                   fontSize: 14,
+                  //                   color: Colors.white,
+                  //                   fontFamily: "Gilroy")),
+                  //         ),
+                  //         const Icon(Icons.local_fire_department,
+                  //             size: 40, color: Colors.white),
+                  //       ],
+                  //     ),
+                  //   ),
+                  //   Container(
+                  //     decoration: const BoxDecoration(
+                  //         color: Colors.lightBlueAccent,
+                  //         borderRadius: BorderRadius.only(
+                  //             bottomLeft: Radius.circular(20),
+                  //             bottomRight: Radius.circular(20))),
+                  //     height: 130,
+                  //     width: 350,
+                  //     child: Column(
+                  //       crossAxisAlignment: CrossAxisAlignment.start,
+                  //       children: [
+                  //         Container(
+                  //           margin: const EdgeInsets.fromLTRB(15, 0, 0, 0),
+                  //           child: const Text("\nPuna gam Fire Station",
+                  //               style: TextStyle(
+                  //                   color: Colors.red,
+                  //                   fontSize: 15,
+                  //                   fontFamily: "Gilroy",
+                  //                   fontWeight: FontWeight.bold)),
+                  //         ),
+                  //         Container(
+                  //           margin: const EdgeInsets.fromLTRB(15, 0, 0, 0),
+                  //           child: RichText(
+                  //             text: const TextSpan(
+                  //               children: <TextSpan>[
+                  //                 TextSpan(
+                  //                     text: "Phone :",
+                  //                     style: TextStyle(
+                  //                         fontWeight: FontWeight.bold,
+                  //                         fontFamily: "Gilroy")),
+                  //                 TextSpan(
+                  //                     text: "111-222-3333",
+                  //                     style: TextStyle(
+                  //                         fontFamily: "Gilroy",
+                  //                         fontWeight: FontWeight.w500)),
+                  //               ],
+                  //             ),
+                  //           ),
+                  //         ),
+                  //         Container(
+                  //           margin: const EdgeInsets.fromLTRB(15, 0, 0, 0),
+                  //           child: RichText(
+                  //             text: const TextSpan(
+                  //               children: <TextSpan>[
+                  //                 TextSpan(
+                  //                     text: "Address :",
+                  //                     style: TextStyle(
+                  //                         fontWeight: FontWeight.bold,
+                  //                         fontFamily: "Gilroy")),
+                  //                 TextSpan(
+                  //                     text:
+                  //                         "6V4Q+R29, Unnamed Road,Vrundavan Society,Yoginagar Society, Surat, Gujarat 395010",
+                  //                     style: TextStyle(
+                  //                       fontFamily: "Gilroy",
+                  //                       fontWeight: FontWeight.w500,
+                  //                     )),
+                  //               ],
+                  //             ),
+                  //           ),
+                  //         ),
+                  //       ],
+                  //     ),
+                  //   ),
+                  // ]),
+ */

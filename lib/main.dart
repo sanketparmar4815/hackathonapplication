@@ -17,6 +17,7 @@ class MyApp extends StatelessWidget {
       themeMode: ThemeMode.system,
       theme:Palette.lightTheme,
       home: Homescreenmap()
+
     );
   }
 }

@@ -39,6 +39,10 @@ dependencies:
   fluttertoast: ^8.0.6
   persistent_bottom_nav_bar: any
   google_maps_flutter: ^2.5.0
+  http: ^1.1.0
+  dio: ^5.3.3
+  page_transition: ^2.1.0
+  carousel_slider: ^4.2.1
 
 
 dev_dependencies:
